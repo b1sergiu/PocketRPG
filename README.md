@@ -8,7 +8,7 @@ Download it [here](https://github.com/b1sergiu/PocketRPG/releases)
 ## Requirements
 Windows Mobile 5.0 and above running on a PocketPC.
 
-**Open it using Visual Studio 2005!**
+**Open it using Visual Studio 2008!**
 
 ## Credits
 Copyright (c) Oneware Studios 2018

@@ -1,0 +1,12 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\PocketRPG\PocketRPG\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\PocketRPG\PocketRPG\obj\Debug\PocketRPG.MainMenu.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\PocketRPG\PocketRPG\obj\Debug\PocketRPG.SelectClass.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\PocketRPG\PocketRPG\obj\Debug\PocketRPG.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\PocketRPG\PocketRPG\obj\Debug\PocketRPG.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\PocketRPG\PocketRPG\bin\Debug\PocketRPG.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\PocketRPG\PocketRPG\bin\Debug\PocketRPG.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\PocketRPG\PocketRPG\obj\Debug\PocketRPG.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\PocketRPG\PocketRPG\obj\Debug\PocketRPG.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\PocketRPG\PocketRPG\obj\Debug\PocketRPG.Overview.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\PocketRPG\PocketRPG\obj\Debug\PocketRPG.Battle.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\PocketRPG\PocketRPG\obj\Debug\PocketRPG.Credits.resources
